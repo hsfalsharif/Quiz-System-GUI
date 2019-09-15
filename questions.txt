@@ -1,0 +1,30 @@
+What is my name?
+Hamza T
+Faris
+Ahmad
+Mohammad
+What is the capital of KSA?
+Riyadh T
+Makkah
+Jeddah
+Dammam
+When was KFUPM established
+1978
+1963 T
+1820
+1419
+Who is the current rector of KFUPM?
+Dr Khalid Al Fahlih
+Dr Sahel Abduljauwad
+Dr Mohammad Al-Homoud
+Dr Khaled Al Sultan T
+What course is this?
+ICS 201 T
+ICS 102
+COE 202
+ENGL 214
+Anything
+a
+b T
+c
+d
